@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lad cd/cd ../root
+ls -lad cd/root
